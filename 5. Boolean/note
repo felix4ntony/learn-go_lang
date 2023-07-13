@@ -1,0 +1,11 @@
+/* --------------------------------------------------------------------------------------------------------------------------------
+**    Tipe Data Boolean -----------------------------------------------------------------------------------------------------------
+*/ --------------------------------------------------------------------------------------------------------------------------------
+-   Tipe data boolean adala tipe data yang memiliki 2 nilai, yaitu benar dan salah
+-   Di Go-Lang, tipe data boolean di representasikan menggunakan kata kunci bool
+
+Tipe Data Boolean
+| Nilai Boolean | Keterangan
+| true          | Benar
+| false         | Salah
+
