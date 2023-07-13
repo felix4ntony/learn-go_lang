@@ -1,0 +1,26 @@
+/* --------------------------------------------------------------------------------------------------------------------------------
+**    Variable --------------------------------------------------------------------------------------------------------------------
+*/ --------------------------------------------------------------------------------------------------------------------------------
+-   Variable adalah tempat untuk menyimpan data
+-   Variable digunakan agar bisa mengakses data yang sama dimanapun 
+-   Di Go-Lang Variable hanya bisa menyimpan tipe data yang sama, jika ingin menyimpan data yang berbeda-beda jenis, harus membuat beberapa variable
+-   Untuk membuat variable, bisa menggunakan kata kunci var, lalu diikuti dengan nama variable dan tipe datanya
+
+Note : 
+-   (Tidak bisa seperti PHP) tidak bisa 1 variable 2 tipe berbeda
+-   value yang tidak terpakai, pasti muncul notif error
+
+
+Tipe Data Variable
+-   Saat membuat variable, maka wajib menyebutkan tipe data variable tersebut
+-   Namun jika langsung menginisialisasikan data pada variablenya, maka tidak wajib menyebutkan tipe data variablenya
+
+Kata Kunci Var
+-   Di Go-Lang, kata kunci var saat membuat variable tidak wajib.
+-   Asalkan saat membuat varaiable kita langsung menginisialiasi datanya
+-   Agar tidak perlu menggunakan kata kunci var, perlu menggunakan kata kunci ":=" saat menginisialisasikan data pada variable tersebut
+
+Deklarasi Multiple Variable
+-   Di Go-Lang bisa membuat variable secara sekaligus banyak
+-   Code yang dibuat akan lebih bagus dan mudah dibaca
+
