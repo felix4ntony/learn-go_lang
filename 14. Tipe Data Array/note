@@ -1,0 +1,24 @@
+Tipe Data Array
+-   Array adalah tipe data yang berisikan kumpulan data dengan tipe yang sama
+-   Saat membuat array, perlu menentukan jumlah data yang bisa ditampung Oleh Array tersebut
+-   Daya tampung Array tidak bisa bertambah setelah Array dibuat seperti C
+
+Index di Array
+| Index | Data      |
+| 0     | Eko       |
+| 1     | Kurniawan |
+| 2     | Khannedy  |
+
+note : Jika memakai contoh diatas, jika kita mencari index ke 3, maka akan muncul error
+
+
+Membuat Array Langsung
+-   Di Go-Lang juga bisa membuat Array secara langsung saat deklarasi variable
+
+
+Function Array
+| Operasi               | Keterangan                        |
+| len(array)            | Untuk mendapatkan panjang Array   | -> menghitung panjang data bukan jumlah datanya
+| array[index]          | Mendapatkan data di posisi index  |
+| array[index] = value  | Mengubah data di posisi index     |
+
